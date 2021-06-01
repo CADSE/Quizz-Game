@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="bem_vindo">Bem-vindo</string>
+    <string name="insira_um_nome">Insira um nome.</string>
+    <string name="nuno">Nuno</string>
+    <string name="come_ar">Começar</string>
+    <string name="nome">Nome</string>
+    <string name="a_que_pais_pertence_esta_bandeira">A que pais pertence esta bandeira?</string>
+    <string name="todo">TODO</string>
+</resources>
